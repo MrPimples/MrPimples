@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Dimas Rizky Sanjaya AKA MrPimples
 - 👀 I’m interested in Tech,Coding,Games and Movies
-- 🌱 I’m an Intern on Blibli as SDET or QA
+- 🌱 I was an Intern on Blibli as SDET or QA
 - 📫 You can reach me on my linkedin https://s.id/1qFmH
 
 <!---
